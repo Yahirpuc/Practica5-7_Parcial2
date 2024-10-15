@@ -1,0 +1,16 @@
+C:\Users\pc\source\repos\Practicas5-7\Practicas5-7\obj\Debug\net8.0-windows\PracticasWinForms.Form1.resources
+C:\Users\pc\source\repos\Practicas5-7\Practicas5-7\obj\Debug\net8.0-windows\Practicas5-7.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Practicas5-7\Practicas5-7\obj\Debug\net8.0-windows\Practicas5-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Practicas5-7\Practicas5-7\obj\Debug\net8.0-windows\Practicas5-7.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Practicas5-7\Practicas5-7\obj\Debug\net8.0-windows\Practicas5-7.AssemblyInfo.cs
+C:\Users\pc\source\repos\Practicas5-7\Practicas5-7\obj\Debug\net8.0-windows\Practicas5-7.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Practicas5-7\Practicas5-7\bin\Debug\net8.0-windows\Practicas5-7.exe
+C:\Users\pc\source\repos\Practicas5-7\Practicas5-7\bin\Debug\net8.0-windows\Practicas5-7.deps.json
+C:\Users\pc\source\repos\Practicas5-7\Practicas5-7\bin\Debug\net8.0-windows\Practicas5-7.runtimeconfig.json
+C:\Users\pc\source\repos\Practicas5-7\Practicas5-7\bin\Debug\net8.0-windows\Practicas5-7.dll
+C:\Users\pc\source\repos\Practicas5-7\Practicas5-7\bin\Debug\net8.0-windows\Practicas5-7.pdb
+C:\Users\pc\source\repos\Practicas5-7\Practicas5-7\obj\Debug\net8.0-windows\Practicas5-7.dll
+C:\Users\pc\source\repos\Practicas5-7\Practicas5-7\obj\Debug\net8.0-windows\refint\Practicas5-7.dll
+C:\Users\pc\source\repos\Practicas5-7\Practicas5-7\obj\Debug\net8.0-windows\Practicas5-7.pdb
+C:\Users\pc\source\repos\Practicas5-7\Practicas5-7\obj\Debug\net8.0-windows\Practicas5-7.genruntimeconfig.cache
+C:\Users\pc\source\repos\Practicas5-7\Practicas5-7\obj\Debug\net8.0-windows\ref\Practicas5-7.dll
